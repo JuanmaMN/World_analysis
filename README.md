@@ -10,7 +10,6 @@ Feedback is welcome and appreciated. Please feel free to follow me on [Twitter](
 
 <hr>
 
-<br> 
 
 ### Corruption Perceptions Index
 
