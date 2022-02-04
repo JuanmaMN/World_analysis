@@ -17,6 +17,8 @@ Feedback is welcome and appreciated. Please feel free to follow me on [Twitter](
 
 Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Corruption_Perceptions_Index/Corruption_Perceptions_Index_2021.R).
 
+[Tableau public link](https://public.tableau.com/app/profile/juanma4308/viz/CorruptionPerceptionsIndex_16439831479980/CPIindex)
+
 
 <br> 
 
