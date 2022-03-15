@@ -67,3 +67,16 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 <img width="903" alt="Freedom_2022" src="https://user-images.githubusercontent.com/37122520/156429298-e63cfcee-efd4-4c60-8bef-ebe877b12327.png">
 </p>
 
+
+
+<br> 
+
+Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/World_Freedom_index/TidyTuesday_23_2_2022_Freedom_2022_2.R).
+
+
+<br>
+
+<p align="center">
+<img width="903" alt="Freedom_2022_2003" src="https://user-images.githubusercontent.com/37122520/158478710-9653be31-6e1f-4d6d-9198-de016453455b.png">
+</p>
+
