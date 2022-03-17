@@ -8,7 +8,7 @@ Code has been uploaded as well for you to view.
 
 Feedback is welcome and appreciated. Please feel free to follow me on [Twitter](https://twitter.com/Juanma_MN).
 
-<hr>
+<hr> 
 
 
 ### Corruption Perceptions Index
