@@ -80,3 +80,21 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 <img width="903" alt="Freedom_2022_2003" src="https://user-images.githubusercontent.com/37122520/158478710-9653be31-6e1f-4d6d-9198-de016453455b.png">
 </p>
 
+
+<hr>
+
+### Happiness
+
+
+
+<br>
+
+<p align="center">
+<img width="903" alt="Happiness_2020" src="https://user-images.githubusercontent.com/37122520/160253639-3ccec501-44ea-4512-8ead-dbd53d5f1e80.png">
+</p>
+
+
+
+
+<br> 
+
