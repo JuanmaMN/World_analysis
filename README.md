@@ -98,3 +98,23 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 
 <br> 
 
+
+<hr>
+
+### Suspension of the rights of membership of the Russian Federation in the Human Rights Council
+
+
+
+<br>
+
+<p align="center">
+<img width="903" alt="suspension_rights" src="https://user-images.githubusercontent.com/37122520/167690036-2a469e22-c751-476a-81ce-fac6ab5bca97.png">
+</p>
+
+
+<br> 
+
+<p align="center">
+<img width="903" alt="suspension_rights" src="https://user-images.githubusercontent.com/37122520/167690279-5e49d939-7c22-44ab-90bc-d186aa9b2ee1.png">
+</p>
+
