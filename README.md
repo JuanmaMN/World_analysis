@@ -64,9 +64,8 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 <br>
 
 <p align="center">
-<img width="903" alt="Freedom_2022" src="https://user-images.githubusercontent.com/37122520/156429298-e63cfcee-efd4-4c60-8bef-ebe877b12327.png">
+<img width="903" alt="Freedom_2022" src="https://user-images.githubusercontent.com/37122520/167710863-b4af97a7-27e2-473a-a703-b297c308e1b4.png">
 </p>
-
 
 
 <br> 
