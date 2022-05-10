@@ -118,3 +118,16 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 <img width="903" alt="suspension_rights" src="https://user-images.githubusercontent.com/37122520/167690279-5e49d939-7c22-44ab-90bc-d186aa9b2ee1.png">
 </p>
 
+
+<hr>
+
+### Share of energy from renewable sources in 2020 for EU-27
+
+
+<br>
+
+<p align="center">
+<img width="903" alt="EU - 27" src="https://user-images.githubusercontent.com/37122520/167692523-f4aba5aa-b468-49cc-a50c-f2ab5c4ee42a.png">
+</p>
+
+
