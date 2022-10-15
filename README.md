@@ -19,7 +19,6 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Co
 
 [Tableau public link](https://public.tableau.com/app/profile/juanma4308/viz/CorruptionPerceptionsIndex_16439831479980/CPIindex).
 
-
 <br> 
 
 <br>
@@ -37,7 +36,6 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Co
 
 
 [Tableau public link](https://public.tableau.com/app/profile/juanma4308/viz/UN_votes_analysis/UN_votes).
-
 
 <br> 
 
@@ -91,7 +89,6 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 <p align="center">
 <img width="903" alt="Happiness_2020" src="https://user-images.githubusercontent.com/37122520/160253639-3ccec501-44ea-4512-8ead-dbd53d5f1e80.png">
 </p>
-
 
 
 
