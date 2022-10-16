@@ -127,3 +127,22 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 </p>
 
 
+<hr>
+
+### Median pay analysis across the UK
+
+<br> 
+
+
+[Behance link](https://www.behance.net/gallery/154953989/Median-pay-analysis-in-the-UK-September-2022).
+
+<br> 
+
+<br>
+
+<p align="center">
+<img width="903" alt="UK_median_pay September 2022 - Updated on October 2022" src="https://user-images.githubusercontent.com/37122520/196036463-d0036dab-a8e6-4705-b57b-cd857f1802d4.png">
+</p>
+
+
+<hr>
