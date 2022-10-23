@@ -146,3 +146,21 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 
 
 <hr>
+
+
+### Recycling rate of municipal waste - 2020
+
+<br> 
+
+
+[Behance link](https://www.behance.net/gallery/153948449/Recycling-rate-of-municipal-waste-2020).
+
+<br> 
+
+<br>
+
+
+<p align="center">
+<img width="903" alt="EU - 28 - Recycling percentage" src="https://user-images.githubusercontent.com/37122520/197415530-93e55e6f-c729-4c55-98f0-9b0dfd16235c.png">
+</p>
+
