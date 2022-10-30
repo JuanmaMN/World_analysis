@@ -165,6 +165,10 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 </p>
 
 
+
+<hr>
+
+
 ### GDP, PPP (current international $)- Africa 2021
 
 <br> 
