@@ -174,7 +174,8 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 <br> 
 
 
-[Behance link](https://www.behance.net/gallery/155939813/GDP-PPP-%28current-international-S%29-Africa-in-2021).
+[Behance link](https://www.behance.net/gallery/155939813/GDP-PPP-in-Africa-in-2021)).
+
 
 <br> 
 
