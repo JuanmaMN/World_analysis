@@ -164,3 +164,20 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 <img width="903" alt="EU - 28 - Recycling percentage" src="https://user-images.githubusercontent.com/37122520/197415530-93e55e6f-c729-4c55-98f0-9b0dfd16235c.png">
 </p>
 
+
+### GDP, PPP (current international $)- Africa 2021
+
+<br> 
+
+
+[Behance link](https://www.behance.net/gallery/155939813/GDP-PPP-%28current-international-S%29-Africa-in-2021).
+
+<br> 
+
+<br>
+
+<p align="center">
+<img width="903" alt="Africa map - GDP, PPP (current international $)" src="https://user-images.githubusercontent.com/37122520/198888766-d32559f5-adc5-4abf-95d5-e2d5de4658c5.png">
+</p>
+
+
