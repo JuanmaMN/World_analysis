@@ -184,5 +184,3 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 <p align="center">
 <img width="903" alt="Africa map - GDP, PPP (current international $)" src="https://user-images.githubusercontent.com/37122520/198888766-d32559f5-adc5-4abf-95d5-e2d5de4658c5.png">
 </p>
-
-
