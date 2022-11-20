@@ -184,3 +184,25 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 <p align="center">
 <img width="903" alt="Africa map - GDP, PPP (current international $)" src="https://user-images.githubusercontent.com/37122520/198888766-d32559f5-adc5-4abf-95d5-e2d5de4658c5.png">
 </p>
+
+
+<hr>
+
+
+### GDP, PPP (current international $)- South America 2021
+
+<br> 
+
+
+[Behance link](https://www.behance.net/gallery/157481691/GDP-PPP-in-South-America-in-2021).
+
+
+<br> 
+
+<br>
+
+<p align="center">
+<img width="903" alt="South America map - GDP, PPP (current international $)" src="https://user-images.githubusercontent.com/37122520/202898388-df4e2deb-01e8-4161-87bb-3dc65ff21b2a.png">
+
+
+</p>
