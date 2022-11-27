@@ -206,3 +206,25 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 
 
 </p>
+
+
+
+### EU Unemployment rate by NUTS 2 regions  in 2021
+
+<br> 
+
+
+[Behance link](https://www.behance.net/gallery/157970639/Unemployment-rate-by-NUTS-2-regions-in-2021).
+
+
+<br> 
+
+<br>
+
+<p align="center">
+<img width="903" alt="EU unemployment by region" src="https://user-images.githubusercontent.com/37122520/204131514-5107e6ec-9046-4781-995f-9030b9b61084.png">
+
+
+</p>
+
+
