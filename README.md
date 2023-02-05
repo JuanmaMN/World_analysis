@@ -228,3 +228,23 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 </p>
 
 
+
+### Human Development Index (HDI) in 2021
+
+<br> 
+
+
+[Behance link](https://www.behance.net/gallery/163033665/Human-Development-Index-%28HDI%29-in-2021).
+
+
+<br> 
+
+<br>
+
+<p align="center">
+
+<img width="903" alt="HDI_published_5 2 2023" src="https://user-images.githubusercontent.com/37122520/216815834-111aa4ce-8b55-4e41-be11-d2fcf33c011d.png">
+
+
+</p>
+
