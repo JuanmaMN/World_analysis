@@ -34,7 +34,6 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Co
 
 <br> 
 
-
 [Tableau public link](https://public.tableau.com/app/profile/juanma4308/viz/UN_votes_analysis/UN_votes).
 
 <br> 
