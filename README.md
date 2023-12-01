@@ -11,6 +11,26 @@ Feedback is welcome and appreciated. Please feel free to follow me on [Twitter](
 <hr> 
 
 
+### Income Inequality: GINI Index
+
+<br> 
+
+
+[Behance link](https://www.behance.net/gallery/185822293/Income-Inequality-GINI-Index)
+
+<br> 
+
+
+<br>
+
+<p align="center">
+<img width="903" alt="GINI Index" src="https://github.com/JuanmaMN/World_analysis/assets/37122520/a06f43d1-60b6-4570-b57e-40b0807a20ca">
+</p>
+
+
+<hr>
+
+
 ### Corruption Perceptions Index
 
 <br> 
