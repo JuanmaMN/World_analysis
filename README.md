@@ -44,7 +44,7 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Co
 <br>
 
 <p align="center">
-<img width="903" alt="CPI 2021" src="https://user-images.githubusercontent.com/37122520/151801103-0113e215-4fcd-4d9a-9408-328bdff00762.png">
+<img width="903" alt="CPI 2022" src="https://github.com/JuanmaMN/World_analysis/assets/37122520/71f12d75-093c-44b3-87eb-5bea8511ff7b">
 </p>
 
 
