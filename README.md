@@ -24,7 +24,7 @@ Feedback is welcome and appreciated. Please feel free to follow me on [Twitter](
 <br>
 
 <p align="center">
-<img width="903" alt="GINI Index" src="https://github.com/JuanmaMN/World_analysis/assets/37122520/9389df8d-b3c1-4cb8-91dc-1b8921d5adcd">
+<img width="903" alt="GINI Index" src="https://github.com/JuanmaMN/World_analysis/assets/37122520/2e248cb2-0337-4fc8-b5d6-c3df76a3c3a3">
 </p>
 
 
