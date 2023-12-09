@@ -92,7 +92,7 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 <br>
 
 <p align="center">
-<img width="903" alt="Freedom_2023_2003" src="https://github.com/JuanmaMN/World_analysis/assets/37122520/51e29732-555c-4a4a-887c-b9536cc76aab">
+<img width="903" alt="Freedom_2023_2003" src="https://github.com/JuanmaMN/World_analysis/assets/37122520/b713b826-ebd7-485a-8686-0a68c05b1bbd">
 </p>
 
 
