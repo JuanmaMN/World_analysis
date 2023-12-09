@@ -80,7 +80,7 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 <br>
 
 <p align="center">
-<img width="903" alt="Freedom_2022" src="https://user-images.githubusercontent.com/37122520/167710863-b4af97a7-27e2-473a-a703-b297c308e1b4.png">
+<img width="903" alt="Freedom_2023" src="https://github.com/JuanmaMN/World_analysis/assets/37122520/f356c592-0f6e-4106-ae60-f71722328dd1">
 </p>
 
 
@@ -92,8 +92,9 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 <br>
 
 <p align="center">
-<img width="903" alt="Freedom_2022_2003" src="https://user-images.githubusercontent.com/37122520/158478710-9653be31-6e1f-4d6d-9198-de016453455b.png">
+<img width="903" alt="Freedom_2023_2003" src="https://github.com/JuanmaMN/World_analysis/assets/37122520/51e29732-555c-4a4a-887c-b9536cc76aab">
 </p>
+
 
 
 <hr>
