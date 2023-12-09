@@ -80,8 +80,9 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 <br>
 
 <p align="center">
-<img width="903" alt="Freedom_2023" src="https://github.com/JuanmaMN/World_analysis/assets/37122520/f356c592-0f6e-4106-ae60-f71722328dd1">
+<img width="903" alt="Freedom_2023" src="https://github.com/JuanmaMN/World_analysis/assets/37122520/96f276ec-7558-4beb-aecc-d980bd3b7cfc">
 </p>
+
 
 
 <br> 
