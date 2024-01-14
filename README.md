@@ -249,6 +249,26 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 
 
 
+### Persons at risk of poverty or social exclusion in 2022 (% of total population) in 2022
+
+<br> 
+
+
+[Behance link](https://www.behance.net/gallery/186373443/People-at-risk-of-poverty-or-social-exclusion-in-2022).
+
+
+<br> 
+
+<br>
+
+<p align="center">
+<img width="903" alt="EU unemployment by region" src="https://github.com/JuanmaMN/World_analysis/assets/37122520/a49f7776-155d-45f8-9e1c-c5fa71418ed0">
+
+
+
+</p>
+
+
 ### Human Development Index (HDI) in 2021
 
 <br> 
