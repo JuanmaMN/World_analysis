@@ -168,6 +168,31 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 <hr>
 
 
+
+### Total weekly gross earnings by Place of Residence, Borough in 2022
+
+
+<br> 
+
+
+[Behance link](https://www.behance.net/gallery/189519021/Total-weekly-gross-earnings-by-Place-of-Residence).
+
+<br> 
+
+<br>
+
+
+<p align="center">
+<img width="903" alt="London borough weekly earnings" src="https://github.com/JuanmaMN/World_analysis/assets/37122520/df9e54d0-03c3-4e58-b714-298055623553">
+</p>
+
+
+
+
+<hr>
+
+
+
 ### Recycling rate of municipal waste - 2020
 
 <br> 
