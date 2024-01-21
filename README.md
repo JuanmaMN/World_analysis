@@ -183,10 +183,9 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 
 
 <p align="center">
-<img width="903" alt="London borough weekly earnings" src="https://github.com/JuanmaMN/World_analysis/assets/37122520/df9e54d0-03c3-4e58-b714-298055623553">
+<img width="903" alt="London borough round for Github" src="https://github.com/JuanmaMN/World_analysis/assets/37122520/59f9a999-70e2-4cd4-9285-6e33c69532e6">
 </p>
 
-![London borough round for Github](https://github.com/JuanmaMN/World_analysis/assets/37122520/d39ba947-5981-4ab3-9fa1-ed946998d958)
 
 
 
