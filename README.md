@@ -49,6 +49,15 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Co
 <img width="903" alt="CPI 2023" src="https://github.com/JuanmaMN/World_analysis/assets/37122520/9121ea84-6d5a-49c0-abdf-84ee23d2535c">
 </p>
 
+<br>
+
+<p align="center">
+<img width="903" alt="CPI table 2023" src="https://github.com/JuanmaMN/World_analysis/assets/37122520/bc0ee546-c29d-4502-bf5c-e871ef53d401">
+</p>
+
+
+
+
 <hr>
 
 ### UN Votes analysis
