@@ -304,6 +304,25 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Wo
 
 </p>
 
+### EU trade in good with China and with the United States
+
+<br> 
+
+
+[Behance link](https://www.behance.net/gallery/193831667/EU-trade-in-good-with-China-and-with-the-United-States).
+
+
+<br> 
+
+<br>
+
+<p align="center">
+<img width="903" alt="EU trade in goods" src="https://github.com/JuanmaMN/World_analysis/assets/37122520/f0ebf8c0-ae1f-4953-8bff-2eec4bc762d5">
+
+
+
+</p>
+
 
 ### Human Development Index (HDI) in 2021
 
