@@ -16,6 +16,29 @@ Feedback is welcome and appreciated. Please feel free to follow me on [Twitter](
 <br> 
 
 
+[Medium article](https://medium.com/@juanma.mn/visualising-children-at-risk-of-poverty-or-social-exclusion-in-2023-eurostat-a7a35676a56e)
+
+<br> 
+
+
+<br>
+
+<p align="center">
+<img width="903" alt="Github - Children at risk of poverty" src="https://github.com/user-attachments/assets/0c28e982-4b70-43bd-8a1d-50c76956e967">
+</p>
+
+<br>
+
+<hr>
+
+
+
+
+### Income Inequality: GINI Index
+
+<br> 
+
+
 [Behance link](https://www.behance.net/gallery/185822293/Income-Inequality-GINI-Index)
 
 <br> 
@@ -27,6 +50,7 @@ Feedback is welcome and appreciated. Please feel free to follow me on [Twitter](
 <img width="903" alt="GINI Index" src="https://github.com/JuanmaMN/World_analysis/assets/37122520/2e248cb2-0337-4fc8-b5d6-c3df76a3c3a3">
 </p>
 
+<br>
 
 <hr>
 
