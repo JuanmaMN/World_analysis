@@ -11,7 +11,7 @@ Feedback is welcome and appreciated. Please feel free to follow me on [Twitter](
 <hr> 
 
 
-### Income Inequality: GINI Index
+### Children at risk of poverty or social exclusion in 2023 — EU - 27
 
 <br> 
 
@@ -29,10 +29,20 @@ Feedback is welcome and appreciated. Please feel free to follow me on [Twitter](
 
 <br>
 
+
+
+
+<br>
+
+<p align="center">
+<img width="903" alt="Github - Children at risk of poverty - 2" src="https://github.com/user-attachments/assets/389f8a4d-ee62-434f-bf02-73cf89ff08cb">
+</p>
+
+<br>
+
+
+
 <hr>
-
-
-
 
 ### Income Inequality: GINI Index
 
