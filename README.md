@@ -94,6 +94,46 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Co
 
 <hr>
 
+
+
+
+### World Freedom Index
+
+<br> 
+
+Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/World_Freedom_index/TidyTuesday_23_2_2022_Freedom_2022.R).
+
+
+
+<br>
+
+<p align="center">
+<img width="903" alt="Freedom_2023" src="https://github.com/user-attachments/assets/85380096-fba0-49cf-89e8-91927a04f1ec">
+</p>
+
+
+
+
+
+<br>
+
+<p align="center">
+<img width="903" alt="Freedom_2023_2003" src="https://github.com/user-attachments/assets/ca4e3eab-38a3-448c-a086-6f0e6f7d314f">
+</p>
+
+
+<br>
+
+<p align="center">
+<img width="903" alt="Freedom_2023_2003" src="https://github.com/user-attachments/assets/9f92cec4-d05d-4782-a4e0-2729178dd7f4">
+</p>
+
+
+
+<hr>
+
+
+
 ### UN Votes analysis
 
 <br> 
@@ -111,39 +151,6 @@ Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/Co
 
 
 
-
-<hr>
-
-### World Freedom Index
-
-<br> 
-
-Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/World_Freedom_index/TidyTuesday_23_2_2022_Freedom_2022.R).
-
-
-
-<br>
-
-<p align="center">
-<img width="903" alt="Freedom_2023" src="https://github.com/JuanmaMN/World_analysis/assets/37122520/96f276ec-7558-4beb-aecc-d980bd3b7cfc">
-</p>
-
-
-
-<br> 
-
-Code is available [here](https://github.com/JuanmaMN/World_analysis/blob/main/World_Freedom_index/TidyTuesday_23_2_2022_Freedom_2022_2.R).
-
-
-<br>
-
-<p align="center">
-<img width="903" alt="Freedom_2023_2003" src="https://github.com/JuanmaMN/World_analysis/assets/37122520/b713b826-ebd7-485a-8686-0a68c05b1bbd">
-</p>
-
-
-
-<hr>
 
 ### Happiness
 
